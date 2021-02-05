@@ -20,7 +20,7 @@ My name is **Argo Zhang**
 - 🔭 I’m currently working on [Bootstrap Blazor](https://github.com/dotnetcore/BootstrapBlazor)
 - 🌱 I’m currently learning **Blazor**
 - 👯 I’m looking to collaborate on Github.com
-- 🤔 I’m looking for help with **Bootstrap Blazor** docs translate work
+- 🤔 I’m looking for help with **Bootstrap Blazor** docs translate work [#42](https://github.com/dotnetcore/BootstrapBlazor/issues/42)
 - 📫 How to reach me: argo@163.com
 
 

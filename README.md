@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" width="250px" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" />
+
 My name is **Argo Zhang**
 
+- 👤 I’m a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004174).
 - 🔭 I’m currently working on [Bootstrap Blazor](https://github.com/dotnetcore/BootstrapBlazor)
 - 🌱 I’m currently learning **Blazor**
 - 👯 I’m looking to collaborate on Github.com

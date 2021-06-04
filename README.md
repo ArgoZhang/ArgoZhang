@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="250px" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" />
+<a href="https://mvp.microsoft.com/en-us/PublicProfile/5004174" target="_blank">
+  <img align="right" width="250px" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" style="border-radius: 6px;padding: 0;" />
+</a>
 
 My name is **Argo Zhang**
 
@@ -29,10 +31,4 @@ My name is **Argo Zhang**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ArgoZhang&show_icons=true)
 
-<a href="https://github.com/argozhang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=argozhang&count_private=true&show_icons=true&theme=bufey" />
-</a>
-  
-  <a href="https://github.com/argozhang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argozhang&layout=compact&langs_count=8" />
-</a>
+![Github Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ArgoZhang&layout=compact&langs_count=8")

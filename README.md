@@ -26,7 +26,7 @@ My name is **Argo Zhang**
 - 🌱 I’m currently learning **Blazor**
 - 👯 I’m looking to collaborate on Github.com
 - 🤔 I’m looking for help with **Bootstrap Blazor** docs translate work [#42](https://github.com/dotnetcore/BootstrapBlazor/issues/42)
-- 📫 How to reach me: argo@163.com
+- 📫 How to reach me: argo@live.ca
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dotnetcore&repo=BootstrapBlazor)](https://github.com/dotnetcore/BootstrapBlazor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArgoZhang&repo=BootstrapAdmin)](https://github.com/ArgoZhang/BootstrapAdmin)

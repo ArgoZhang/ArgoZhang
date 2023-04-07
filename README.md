@@ -31,5 +31,5 @@ My name is **Argo Zhang**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dotnetcore&repo=BootstrapBlazor)](https://github.com/dotnetcore/BootstrapBlazor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArgoZhang&repo=BootstrapAdmin)](https://github.com/ArgoZhang/BootstrapAdmin)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ArgoZhang&show_icons=true)
-![Github Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ArgoZhang&layout=compact&langs_count=8")
+![Github Stats](https://github.com/ArgoZhang/github-stats/blob/master/generated/overview.svg)
+![Github Language](https://github.com/ArgoZhang/github-stats/blob/master/generated/languages.svg)

@@ -28,8 +28,19 @@ My name is **Argo Zhang**
 - 🤔 I’m looking for help with **Bootstrap Blazor** docs translate work [#42](https://github.com/dotnetcore/BootstrapBlazor/issues/42)
 - 📫 How to reach me: argo@live.ca
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dotnetcore&repo=BootstrapBlazor)](https://github.com/dotnetcore/BootstrapBlazor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArgoZhang&repo=BootstrapAdmin)](https://github.com/ArgoZhang/BootstrapAdmin)
+<br />
 
-![Github Stats](https://github.com/ArgoZhang/github-stats/blob/master/generated/overview.svg)
-![Github Language](https://github.com/ArgoZhang/github-stats/blob/master/generated/languages.svg)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=argozhang&theme=chartreuse-dark&border_radius=10&card_width=495" />
+  <img src="https://github-readme-stats.vercel.app/api?username=argozhang&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&border_radius=10&card_width=495" />
+  <br />
+  
+  <img src="https://github.com/ArgoZhang/github-stats/blob/master/generated/overview.svg" />
+  <img src="https://github.com/ArgoZhang/github-stats/blob/master/generated/languages.svg" />
+  <br />
+  
+  <a href="https://github.com/dotnetcore/BootstrapBlazor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dotnetcore&repo=BootstrapBlazor" /></a>
+  <a href="https://github.com/ArgoZhang/BootstrapAdmin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArgoZhang&repo=BootstrapAdmin" /></a>
+  <br />
+
+</div>

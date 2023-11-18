@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004174" target="_blank">
-  <img align="right" src="https://mvp.microsoft.com/Assets/UserProfile/MVP/Badge.svg" />
+  <img align="right" width="156px" src="https://mvp.microsoft.com/Assets/UserProfile/MVP/Badge.svg" />
 </a>
 
 My name is **Argo Zhang**

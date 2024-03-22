@@ -29,8 +29,6 @@ My name is **Argo Zhang**
 - 📫 How to reach me: argo@live.ca
 
 <br />
-
-![Visitor Count](https://profile-counter.glitch.me/{argozhang}/count.svg)
   
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=argozhang&theme=chartreuse-dark&border_radius=10&card_width=495" />

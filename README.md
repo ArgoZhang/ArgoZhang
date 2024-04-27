@@ -1,6 +1,7 @@
+<!--
+
 ### Hi there 👋
 
-<!--
 **ArgoZhang/ArgoZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+user%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+GitHub+profile!;My+name+is+Argo+Zhang;I+am+a+Microsoft+MVP;I+am+the+author+of+the+Bootstrap+Blazor+open-source+ project&font=Consolas&color=50C878&size=22&center=true&width=800&height=50&duration=2900&pause=1000" alt="README Typing">
+</p>
 
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004174" target="_blank">
   <img align="right" width="340px" src="https://github.com/ArgoZhang/ArgoZhang/blob/main/440px-Microsoft_MVP_banner.png?wt.mc_id=DT-MVP-5004174" />

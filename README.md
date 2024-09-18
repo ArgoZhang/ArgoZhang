@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </p>
 
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004174" target="_blank">
-  <img align="right" width="320px" src="https://github.com/ArgoZhang/ArgoZhang/blob/main/440px-Microsoft_MVP_banner.png?wt.mc_id=DT-MVP-5004174" />
-  <img align="right" src="https://github.com/ArgoZhang/ArgoZhang/blob/main/2024-microsoft-most-valuable-professional-mvp.png" height="130px" />
+  <img align="right" height="100px" src="https://github.com/ArgoZhang/ArgoZhang/blob/main/440px-Microsoft_MVP_banner.png?wt.mc_id=DT-MVP-5004174" />
+  <img align="right" src="https://github.com/ArgoZhang/ArgoZhang/blob/main/2024-microsoft-most-valuable-professional-mvp.png" height="100px" />
 </a>
 
 My name is **Argo Zhang**

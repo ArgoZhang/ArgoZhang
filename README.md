@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Bootstrap Blazor](https://github.com/dotnetcore/BootstrapBlazor)
+- 🔭 I’m currently working on [Bootstrap Blazor](https://github.com/dotnetcore/BootstrapBlazor?wt.mc_id=DT-MVP-5004174) and [Extensions](https://github.com/BootstrapBlazor/BootstrapBlazor.Extensions?wt.mc_id=DT-MVP-5004174)
 - 🌱 I’m currently learning Blazor
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with **Bootstrap Blazor** docs translate work [Issue](https://github.com/dotnetcore/BootstrapBlazor/issues/42)

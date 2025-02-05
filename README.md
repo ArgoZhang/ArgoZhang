@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Bootstrap Blazor](https://github.com/dotnetcore/BootstrapBlazor?wt.mc_id=DT-MVP-5004174) and [Extensions](https://github.com/BootstrapBlazor/BootstrapBlazor.Extensions?wt.mc_id=DT-MVP-5004174)
+- 🔭 I’m currently working on [Bootstrap Blazor](https://github.com/dotnetcore/BootstrapBlazor?wt.mc_id=DT-MVP-5004174)
 - 🌱 I’m currently learning Blazor
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with **Bootstrap Blazor** docs translate work [Issue](https://github.com/dotnetcore/BootstrapBlazor/issues/42)
@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 My name is **Argo Zhang**
 
 - 👤 I’m a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004174).
-- 🔭 I’m currently working on [Bootstrap Blazor](https://github.com/dotnetcore/BootstrapBlazor)
+- 🔭 I’m currently working on [Bootstrap Blazor](https://github.com/dotnetcore/BootstrapBlazor?wt.mc_id=DT-MVP-5004174) and [Extensions](https://github.com/BootstrapBlazor/BootstrapBlazor.Extensions?wt.mc_id=DT-MVP-5004174)
 - 🌱 I’m currently learning **Blazor**
 - 👯 I’m looking to collaborate on Github.com
-- 🤔 I’m looking for help with **Bootstrap Blazor** docs translate work [#42](https://github.com/dotnetcore/BootstrapBlazor/issues/42)
+- 🤔 I’m looking for help with **Bootstrap Blazor** docs translate work [#42](https://github.com/dotnetcore/BootstrapBlazor/issues/42?wt.mc_id=DT-MVP-5004174)
 - 📫 How to reach me: argo@live.ca
 
 <br />

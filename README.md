@@ -39,10 +39,6 @@ My name is **Argo Zhang**
   <img src="https://github-readme-stats.vercel.app/api?username=argozhang&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&border_radius=10&card_width=495" />
   <br />
   
-  <img src="https://github.com/ArgoZhang/github-stats/blob/master/generated/overview.svg" />
-  <img src="https://github.com/ArgoZhang/github-stats/blob/master/generated/languages.svg" />
-  <br />
-  
   <a href="https://github.com/dotnetcore/BootstrapBlazor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dotnetcore&repo=BootstrapBlazor" /></a>
   <a href="https://github.com/ArgoZhang/BootstrapAdmin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArgoZhang&repo=BootstrapAdmin" /></a>
   <br />
